@@ -1,6 +1,6 @@
 # Firebase Android Snippets
 
-This repository holds code snippets used in Android documentation
+This repository holds code snippets used in Android documentation 11
 on [firebase.google.com](https://firebase.google.com/docs/).
 
 ## Contributing
